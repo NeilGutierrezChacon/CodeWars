@@ -14,3 +14,5 @@ function firstNonRepeatingLetter(s) {
 console.log(firstNonRepeatingLetter("a"));
 console.log(firstNonRepeatingLetter("stress"));
 console.log(firstNonRepeatingLetter("moonmen"));
+
+/* END */

@@ -17,5 +17,5 @@ def solution(s):
             else:
                 resp.append(s[x:x+2])
 
-    print(resp)
+    return resp
 solution("Holas")
